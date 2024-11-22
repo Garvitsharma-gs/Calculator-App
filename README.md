@@ -11,7 +11,7 @@ The **Calculator App** is a simple and stylish desktop calculator application bu
 - **Error Handling**: Displays an error message when an invalid expression is entered.
 
 ## Screenshots
-*(Insert screenshots of the calculator in use here.)*
+![image alt](https://github.com/Garvitsharma-gs/Calculator-App/blob/92affc1537369cab82f199d14cb53d6a7ab766a5/Calculator%2023-11-2024%2000_26_32.png)
 
 ## Requirements
 - Python 3.x
