@@ -21,7 +21,7 @@ The **Calculator App** is a simple and stylish desktop calculator application bu
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/calculator-app.git
+git clone https://github.com/Garvitsharma-gs/Calculator-App
 cd calculator-app
 ```
 
